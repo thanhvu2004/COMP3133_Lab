@@ -1,0 +1,17 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "A REST API for managing restaurant data using Express and Mongoose.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lab3_restaurant_database": "file:",
+    "mongoose": "^8.9.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
